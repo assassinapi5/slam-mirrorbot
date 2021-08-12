@@ -1,4 +1,4 @@
-[![Slam](https://i.pinimg.com/originals/59/c3/e6/59c3e6ca7bc40de8db848d9320fc47b6.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![Slam](https://i.pinimg.com/originals/59/c3/e6/59c3e6ca7bc40de8db848d9320fc47b6.jpg)]
 
 # Slam Mirror Bot
 This is a Telegram bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
